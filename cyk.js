@@ -1,12 +1,4 @@
-// function CFG(table){
-//     for (var reg in table){
-//         this[reg[0]] = [];
-//         for (var i=1;i<reg.length;i++){
-//             this[reg[0]].push(reg[i])
-//             }
-//         }
-//     }
-// }
+
 var grama = { 
     S: ['AB', 'BC'],
     A: ['BA', 'a'],
@@ -77,8 +69,6 @@ var cyk = function(word,gram){
 
   console.log(wynik)
   console.log(wynik.indexOf['S']);
-//     return (tab[len-1][0].indexOf["S"] >= 0 || tab[len-1][0].indexOf["s"] >= 0);
-//   return tab;
 
 };
 
