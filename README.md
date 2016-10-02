@@ -1,3 +1,3 @@
 # cyk
 
-Implementation of CYK[https://en.wikipedia.org/wiki/CYK_algorithm] algorithm in JavaScript
+Implementation of [CYK algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) in JavaScript
